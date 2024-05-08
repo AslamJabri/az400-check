@@ -2,3 +2,4 @@ this a file 1
 we are learning AZ-400
 lets make a change on master branch
 let make one more change for creating a conflict.
+This change has been made by branch featureA
